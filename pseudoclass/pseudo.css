@@ -1,0 +1,46 @@
+/* h1:hover{
+    color: red;
+    background-color: green;
+}
+button:hover{
+    color:white;
+    background-color: black;
+}
+a:active{
+    color: limegreen;
+}
+a:visited{
+    color: tomato;
+}
+input:focus{
+ background-color: royalblue;
+ color:white;
+} */
+ /* div p:first-child{
+    color:red;
+    background-color: blue;
+ } */
+ /* div p:last-child{
+    color:red;
+    background-color: blue;
+ } */
+ /* div p:nth-child(odd){
+    color:red;
+    background-color: blue;
+ } */
+ /* div p:nth-child(even){
+    color:red;
+    background-color: blue;
+ } */
+ /* div p:nth-child(3n){
+    color:red;
+    background-color: blue;
+ } */
+ /* div p:nth-child(3){
+    color:red;
+    background-color: blue;
+ } */
+  li:not(.exclude){
+    color: blue;
+    background-color: aqua;
+  }

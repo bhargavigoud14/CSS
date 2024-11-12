@@ -1,0 +1,13 @@
+/* section p{
+    color:red;
+} */
+
+/* section >h1{
+    color: aqua;
+} */
+ /* h1+p{
+    background-color: antiquewhite;
+ } */
+  p~p{
+    background-color: aqua;
+  }
