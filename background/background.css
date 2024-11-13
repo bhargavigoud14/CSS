@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+section{
+    height: 630px;
+    background-color: aquamarine;
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZjg5ZjQ4NTItM2Y2ZC00ZDRhLTg3NjMtMGFkOTVkYzZhMGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg);
+    background-size: 400px;
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    color: blue;
+}
