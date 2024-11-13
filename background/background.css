@@ -6,8 +6,18 @@ section{
     height: 630px;
     background-color: aquamarine;
     background-image: url(https://m.media-amazon.com/images/M/MV5BZjg5ZjQ4NTItM2Y2ZC00ZDRhLTg3NjMtMGFkOTVkYzZhMGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg);
-    background-size: 400px;
+    background-size: 300px 400px;
     background-repeat: repeat-y;
     background-repeat: no-repeat;
     color: blue;
+    background-position: top left;
+    background-position: top right;
+    background-position: top ;
+    background-position: bottom;
+    background-position: bottom right;
+    background-position: center;
+    background-attachment: fixed;
+    background: aqua url(https://m.media-amazon.com/images/M/MV5BZjg5ZjQ4NTItM2Y2ZC00ZDRhLTg3NjMtMGFkOTVkYzZhMGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg) no-repeat center fixed;
+    background-size: 300px 400px;
+
 }
