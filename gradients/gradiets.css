@@ -1,0 +1,7 @@
+body{
+    height: 565px;
+    background-image: radial-gradient(circle,orange,white,green);
+    background-image: radial-gradient(ellipse,orange,white,green);
+    background-image: radial-gradient(circle,orange 0% 10%,white 10% 20%,green 20% 30%);
+    background: repeating-radial-gradient(circle,black 0% 10%,white 10% 20%);
+}
