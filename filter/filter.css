@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+img{
+    height: 300px;
+    width: 300px;
+    filter: blur(0px);
+    filter: brightness(100%);
+    filter:grayscale(0%);
+    /* filter: opacity(0); */
+}
+img:hover{
+    filter: blur(100px);
+    filter: brightness(120%);
+    filter: grayscale(100%);
+    filter: opacity(0.5);
+}
+ #heart:hover{
+    filter: drop-shadow(20px 20px 20px black);
+
+ }
